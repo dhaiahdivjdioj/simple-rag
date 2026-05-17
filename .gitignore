@@ -1,0 +1,17 @@
+__pycache__/
+.env
+*.pyc
+.DS_Store
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.vscode/
+.idea/
+Thumbs.db
+
+# 大体积数据文件（按需取消注释）
+etl_file/*.md
+docs/*.md
+docs/*.txt

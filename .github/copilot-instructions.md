@@ -1,0 +1,3 @@
+- Scaffold a basic Python RAG starter workspace.
+- Include a minimal `app.py`, `README.md`, `requirements.txt`, `.gitignore`, and a sample `data/` document.
+- Ensure the workspace is ready to run with `python app.py` after installing dependencies.
